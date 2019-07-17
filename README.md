@@ -1,3 +1,5 @@
+👋👋 [My Certificate](https://api.noopschallenge.com/mazebot/race/certificate/zp_EFi4YxdnJlGwDbUBOpXU-srjwzDMvcFMvGqJ56qVhExDsK9bAXnaN9h-WJPNg) 👋👋
+
 ![Mazebot animation](https://user-images.githubusercontent.com/212941/59631813-9ad09f80-90fd-11e9-8556-810c48531558.gif)
 
 # 👋 Meet Mazebot
